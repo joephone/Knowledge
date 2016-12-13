@@ -1,7 +1,7 @@
 [Check out English version](README_en.md)
 --
 
-#妹知，既有妹子又有知识
+#**新项目[Girls](https://github.com/DanteAndroid/Girls)**代码更清晰更适合学习。
 
 ## 目录
 1. [简介](#简介)
