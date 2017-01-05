@@ -1,7 +1,7 @@
 Check out [English version](README_en.md)
 --
 
-##**新项目[Girls](https://github.com/DanteAndroid/Girls)**代码更清晰更适合学习。
+##**DEPRECATED** 新项目[Girls](https://github.com/DanteAndroid/Girls)代码更清晰更适合学习。
 
 ## 目录
 1. [简介](#简介)
