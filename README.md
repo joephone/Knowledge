@@ -1,6 +1,6 @@
 ## Check out [English version](README_en.md)
 --
-##个人 Android 红包问答群 459232356
+##Android 红包问答群 459232356
 ##新项目[Girls](https://github.com/DanteAndroid/Girls)代码更清晰更适合学习。
 
 ## 目录
