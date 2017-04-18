@@ -1,7 +1,7 @@
 ## Check out [English version](README_en.md)
 --
-##Android 红包问答群 459232356
-##新项目[Girls](https://github.com/DanteAndroid/Girls)代码更清晰更适合学习。
+## Android 红包问答群 459232356
+## 新项目[Girls](https://github.com/DanteAndroid/Girls)代码更清晰更适合学习。
 
 ## 目录
 1. [简介](#简介)
@@ -12,12 +12,12 @@
 
 ---
 
-##简介
+## 简介
 下载apk点[这里](https://raw.githubusercontent.com/DanteAndroid/Knowledge/master/app-release.apk)
 
 Knowledge是一个[MaterialDesign](http://www.google.com/design/spec/material-design/)风格和[MVP](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0202/2397.html)模式的项目。你可以方便地阅读知乎日报和煎蛋网的新鲜事，还可以浏览妹子图，让我们一起嘿嘿嘿~（作者比较懒，只在[360手机助手](http://openbox.mobilem.360.cn/index/d/sid/3220990)上线了。如果你在学习中遇到任何bug、疑问，请[提交一个issue](https://github.com/DanteAndroid/Knowledge/issues/new)）或[发邮件](mailto:danteandroi@gmail.com?subject=Feedback%20Knowledge)
 
-##截图
+## 截图
 <a href="./screenshots/girl.jpg"><img src="./screenshots/girl.jpg" width="40%"/></a><a href="./screenshots/main.jpg"><img src="./screenshots/main.jpg" width="40%"/></a>
 <a href="./screenshots/detail.jpg"><img src="./screenshots/detail.jpg" width="40%"/></a><a href="./screenshots/menu.jpg"><img src="./screenshots/menu.jpg" width="40%"/></a>
 <!--![ScreenShots](screenshots/girl.jpg)
@@ -25,7 +25,7 @@ Knowledge是一个[MaterialDesign](http://www.google.com/design/spec/material-de
 ![ScreenShots](screenshots/detail.jpg)
 ![ScreenShots](screenshots/menu.jpg)-->
 
-##可以学到：
+## 可以学到：
 - Android Design库的使用
 - 自定义你的基类Activity
 - 应用MVP模式到项目中
