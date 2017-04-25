@@ -1,7 +1,6 @@
-## Check out [English version](README_en.md)
---
-## Android 红包问答群 459232356
-## 新项目[Girls](https://github.com/DanteAndroid/Girls)代码更清晰更适合学习。
+Check out [English version](README_en.md)
+
+## Android 红包问答群45923235 新项目[Girls](https://github.com/DanteAndroid/Girls)代码更清晰更适合学习。
 
 ## 目录
 1. [简介](#简介)
